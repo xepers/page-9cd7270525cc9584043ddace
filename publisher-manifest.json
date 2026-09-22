@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "cb359f2f31064462b98d6394",
+  "owner": "xepers",
+  "repo": "page-9cd7270525cc9584043ddace",
+  "title": "Sakuraの小站点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9cd7270525cc9584043ddace",
+      "a": "Sakuraの小站点",
+      "b": "稳定全球clash加速器",
+      "entity": "Sakuraの小站点",
+      "brand": "Sakuraの小站点",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "917ff670e749b1381f472b5b78cd250167fe6567b3f27d9a659acd1124d320cd",
+      "content": {
+        "primary_entity": "Sakuraの小站点",
+        "keyword1": "Sakuraの小站点",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择 Clash 客户端，桌面、移动与路由器均有对应方案。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐、导入订阅，让日常跨境访问更顺畅。",
+          "AI_CLOSING_TITLE": "轻装出发",
+          "AI_DESCRIPTION": "，提供三档订阅，覆盖 100GB 到 1000GB 月流量与 3 至 20 台设备在线，支持按年付更省，适合手机、电脑与路由器多端配置 Clash 订阅使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路质量三个角度衡量套餐是否顺手。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，旗舰版每月 300GB、5 台设备，团队版每月 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版配备 VIP 高带宽节点。",
+          "AI_FEATURE_TEXT_3": "三个套餐均支持按年付，年付价格分别为 ¥150、¥350、¥850，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "流量与设备",
+          "AI_FEATURE_TITLE_2": "线路与权益",
+          "AI_FEATURE_TITLE_3": "付费周期",
+          "AI_GUIDE_INTRO": "从挑套餐到完成订阅导入，三步走完配置流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Sakuraの小站点面向日常跨境访问场景，提供多档 Clash 订阅与灵活设备授权。按流量与设备数量挑选套餐，再依客户端文档导入订阅，即可在常用设备上使用。",
+          "AI_HERO_SUBTITLE": "多端订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐，按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "支持按年付，长期使用更省",
+          "AI_HIGHLIGHT_3": "桌面、移动与路由器可选客户端",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流媒体与游戏加速，团队版面向多设备高流量需求。",
+          "AI_PLANS_TITLE": "对比套餐",
+          "AI_STEP_TEXT_1": "根据月流量、在线设备数与是否需要专线加速，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端要求，检查所需终端是否在套餐授权数量内。",
+          "AI_STEP_TEXT_3": "参照所选客户端的文档导入订阅，并按需调整路由与代理规则。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Clash 订阅多端可用",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、套餐差异与付费周期。",
+          "AI_FAQ_QUESTION_1": "Sakuraの小站点三档套餐主要区别在哪里？",
+          "AI_FAQ_ANSWER_1": "主要区别在月流量、同时在线设备数与节点类型。基础版 100GB/3 台，旗舰版 300GB/5 台并含 IPLC 专线，团队版 1000GB/20 台并支持定制路由。",
+          "AI_FAQ_QUESTION_2": "订阅信息如何导入客户端？",
+          "AI_FAQ_ANSWER_2": "先按设备选择对应客户端，再依据该客户端的订阅导入说明操作，通常将订阅链接填入订阅栏保存并更新即可。不同客户端界面略有差异。",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量可以超出套餐限制吗？",
+          "AI_FAQ_ANSWER_3": "各档套餐设有对应的同时在线设备数，基础版 3 台、旗舰版 5 台、团队版 20 台。超出后可能影响其他设备连接，建议按实际设备规模选择。",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_4": "月付按 ¥15、¥35、¥85 逐月付费；年付折算后为 ¥150、¥350、¥850，单价更低，适合确定长期使用的场景。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供每月 1000GB 流量、20 台设备同时在线与 VIP 专属节点，并支持企业定制路由与专属客户经理，适合小型团队或多人共用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qinhanjia7.cn",
+    "host": "qinhanjia7.cn"
+  },
+  "file_hashes": {
+    "index.html": "c7d7e688bc16198775193c58eb4824b963631a6caf20ba9ac06166fef16f81c5",
+    "sitemap.xml": "8433237a1937fd68074b0b6d57c81e534291a43df0d0440fbfa0cdf2f8ee1194",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "05230c52e1fed4dcba76fdd78e05c2440d48a1f5340d58d6f2213f48a5540005",
+    "robots.txt": "9b20a267fd147a403e43ce840b007a8a2b3ceb96bc811913e0f9c872061eef63",
+    "c02f5097228413e7867c826204b665ff.txt": "f687d080bc6eaf35300c8e43c6c608e46f5ce4fa3a1713f4ed6875a62cecacdd"
+  },
+  "revision": "d6436cdd71b63b1d5d4d55dc193d78dc26802df7fee0353ceb83f0156d31f8a2"
+}
